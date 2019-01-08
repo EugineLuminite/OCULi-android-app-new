@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Last Events" />
+        <item
+            android:id="@+id/nav_events_history"
+            android:icon="@drawable/ic_camera_roll_black_24dp"
+            android:title="Archived Events" />
+        <item
+            android:id="@+id/nav_sites"
+            android:icon="@drawable/ic_oculi_site2_icon"
+            android:title="Sites" />
+        <item
+            android:id="@+id/nav_units"
+            android:icon="@drawable/ic_oculi_unit_icon"
+            android:title="Units" />
+        <item
+            android:id="@+id/nav_simcard"
+            android:icon="@drawable/ic_sim_card_black_24dp"
+            android:title="Sims" />
+        <item
+            android:id="@+id/nav_bluetooth"
+            android:icon="@drawable/ic_oculi_bluetooth_icon"
+            android:title="Bluetooth" />
+        <!--<item-->
+            <!--android:id="@+id/nav_settings"-->
+            <!--android:icon="@drawable/ic_oculi_settings_icon"-->
+            <!--android:title="Settings" />-->
+        <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_oculi_support_icon"
+        android:title="Help" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_oculi_information_icon"
+            android:title="About" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_oculi_settings_icon"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_user_details"
+            android:icon="@drawable/ic_login_user1"
+            android:title="User Details" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_login_pass"
+            android:title="Log Out" />
+    </group>
+
+    <!--<item android:title="More">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_settings"-->
+                <!--android:icon="@drawable/ic_oculi_settings_icon"-->
+                <!--android:title="Settings" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_user_details"-->
+                <!--android:icon="@drawable/ic_login_user1"-->
+                <!--android:title="Details" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_logout"-->
+                <!--android:icon="@drawable/ic_login_pass"-->
+                <!--android:title="Log Out" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

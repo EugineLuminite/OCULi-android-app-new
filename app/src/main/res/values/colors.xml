@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#284682</color>
+    <color name="colorPrimaryDark">#284682</color>
+    <color name="colorAccent">#98c3e6</color>
+    <color name="EventRedDetection">#ff0000</color>
+    <color name="EventScarletTamperOn">#ff007f</color>
+    <color name="EventKhakiTamperOff">#647f32</color>
+    <color name="EventPurpleCloakOn">#7f00ff</color>
+    <color name="EventOliveCloakOff">#327f64</color>
+    <color name="EventMagentaShock">#ff00ff</color>
+    <color name="EventMagentaMove">#ff00ff</color>
+    <color name="EventWhiteDay">#f6f6f9</color>
+    <color name="EventBlackNight">#141414</color>
+    <color name="EventCyanInitialization">#00ffff</color>
+    <color name="EventBlueHeartbeat">#0000ff</color>
+    <color name="AndroidWhite">#ffffff</color>
+    <color name="ControlColors">#0171bb</color>
+    <color name="BackgroundEventColor">#303030</color>
+
+</resources>
