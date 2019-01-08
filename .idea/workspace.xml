@@ -2195,17 +2195,6 @@
               <item name="OCULI_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCULI_new" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="OCULI_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCULI_new" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCULI_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCULI_new" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
